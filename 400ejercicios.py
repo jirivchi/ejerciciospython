@@ -1,3 +1,4 @@
+#hemos cambiado para saber si funciona
 #ejercicio 277
 #lista = int(input('escriba lista: '))
 
